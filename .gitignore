@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# OS files
+.DS_Store
+Thumbs.db
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+
+# Build files
+dist/
+build/
+.cache/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+.temp/
+
+# Editor backup files
+*~
+*.bak
+*.swp
+
+# IDE specific
+.sublime-project
+.sublime-workspace
+
+# Package managers
+.pnp
+.pnp.js
+
+# Production
+out/
