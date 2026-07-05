@@ -113,9 +113,6 @@ const stickerDefs = [
 - **Email**: [hello@sticksy.in](mailto:hello@sticksy.in)
 - **Location**: Made in India
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
